@@ -1,0 +1,12 @@
+!pip install langchain
+!pip install python-dotenv
+!pip install streamlit
+!pip install tiktoken
+!pip install faiss-cpu
+!pip install protobuf
+!pip install langchain_experimental
+!pip install mysql-connector-python
+!pip install pymysql
+!pip install chromadb
+!pip install sentence-transformers
+%pip install --upgrade --quiet  langchain-google-genai
