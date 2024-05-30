@@ -1,4 +1,4 @@
-# AtliQ Tees: Talk to a Database
+# AtliQ AI: Talk to a Database AI
 
 ---
 
