@@ -2,9 +2,7 @@
 
 ---
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and then executing that query on MySQL database. AtliQ Tees is a T-shirt store where they maintain their inventory, sales and discounts data in MySQL database. A store manager will may ask questions such as,
-What is total stock of nike shirt ?
-How many t-shirts do we have left for nike in extra small size and white color? The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
+This is an end-to-end LLM project utilizing Google PaLM and Langchain. We're developing a system that interacts with a MySQL database. Users ask questions in natural language, and the system responds by converting those questions into SQL queries and executing them on the MySQL database. AtliQ Tees, a T-shirt store, uses MySQL to manage their inventory, sales, and discount data. A store manager might ask questions like, "What is the total stock of Nike shirts?" or "How many extra small, white Nike T-shirts do we have left?" The system is designed to intelligently generate and execute precise SQL queries for any given question.
 
 ---
 
